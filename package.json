@@ -18,6 +18,10 @@
   "homepage": "https://github.com/lighthouse-labs/pair-programming-word-search#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.1.0"
+  },
+  "dependencies": {
+    "npm": "^9.1.2",
+    "test": "^3.2.1"
   }
 }
